@@ -3,7 +3,6 @@
 Personal repository containing my own solutions to the CS50x problem sets from Harvard University (edX).
 
 ## Included
-- Scratch
 - Mario
 - Credit
 - Scrabble
